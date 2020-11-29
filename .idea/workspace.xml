@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52ee6422-627e-4d7c-a251-73d1e8627623" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="00c8dc14-4c93-4735-a812-a81912a86d05" />
+  <component name="ProjectId" id="1krzsgXUiIYtzpQ6tWxkz5tyyEX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Django Server.cm-api">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Django-CM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Django-CM" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cm-api" type="Python.DjangoServer" factoryName="Django server">
+      <module name="cm-api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Django Server.cm-api" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52ee6422-627e-4d7c-a251-73d1e8627623" name="Default Changelist" comment="" />
+      <created>1606473707072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606473707072</updated>
+      <workItem from="1606473708318" duration="307000" />
+      <workItem from="1606474037195" duration="12332000" />
+      <workItem from="1606547956463" duration="1543000" />
+      <workItem from="1606635743898" duration="1093000" />
+      <workItem from="1606647270762" duration="2000" />
+      <workItem from="1606647327578" duration="22000" />
+      <workItem from="1606647360097" duration="47000" />
+      <workItem from="1606647931672" duration="366000" />
+      <workItem from="1606648307314" duration="82000" />
+      <workItem from="1606648461787" duration="191000" />
+      <workItem from="1606649150639" duration="32000" />
+      <workItem from="1606649188305" duration="29000" />
+      <workItem from="1606649222411" duration="4000" />
+      <workItem from="1606649265110" duration="57000" />
+      <workItem from="1606649326716" duration="1000" />
+      <workItem from="1606649518577" duration="7000" />
+      <workItem from="1606649534599" duration="36000" />
+      <workItem from="1606649580493" duration="357000" />
+      <workItem from="1606662653849" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606474187441">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1606474187441" />
+    <state x="286" y="297" key="FileChooserDialogImpl" timestamp="1606649673393">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="286" y="297" key="FileChooserDialogImpl/0.23.1680.1027@0.23.1680.1027" timestamp="1606649673393" />
+    <state width="725" height="279" key="GridCell.Tab.0.bottom" timestamp="1606662642751">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="725" height="279" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1606662642751" />
+    <state width="725" height="279" key="GridCell.Tab.0.center" timestamp="1606662642750">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="725" height="279" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1606662642750" />
+    <state width="725" height="279" key="GridCell.Tab.0.left" timestamp="1606662642750">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="725" height="279" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1606662642750" />
+    <state width="725" height="279" key="GridCell.Tab.0.right" timestamp="1606662642751">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="725" height="279" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1606662642751" />
+    <state x="0" y="174" key="SettingsEditor" timestamp="1606649684336">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="174" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1606649684336" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django_CM$manage.coverage" NAME="manage Coverage Results" MODIFIED="1606649700766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
